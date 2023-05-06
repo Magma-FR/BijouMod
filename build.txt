@@ -1,0 +1,4 @@
+displayName = [c/37EEEE: The Bijou Mod]
+author = Magma!!
+version = 0.23
+homepage = https://www.youtube.com/@Bijou514
